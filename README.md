@@ -1,2 +1,2 @@
-# DecisionTreeClassifier - классификация на основе деревьев решений
+# DecisionTreeClassifier
 Предсказание любимого транспорта на основе Age, Gender, Income
