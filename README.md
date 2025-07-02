@@ -14,3 +14,5 @@ gender и income.
 [PDF отчёт](./Colab.pdf)
 
 [Ссылка на Colab](https://colab.research.google.com/drive/1q8JXOH7-xtQr9VGaMK8G26EeQTToPxZk?usp=sharing)
+
+![App Screenshot](./tree.png)
